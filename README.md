@@ -1,6 +1,6 @@
 ## Kdajhop?
 
-Spletna stran za [kdajhop.markokroselj.com](kdajhop.markokroselj.com)
+Spletna stran za [kdajhop.markokroselj.com](http://kdajhop.markokroselj.com)
 
 ![spletna stran slika](/images/kdajhop_stran.png)
 
